@@ -4,6 +4,8 @@
 		"dzhavat.bracket-pair-toggler",
 		"codespaces-contrib.codeswing",
 		"vsls-contrib.codetour",
-		"streetsidesoftware.code-spell-checker"
+		"streetsidesoftware.code-spell-checker",
+		"esbenp.prettier-vscode",
+		"ms-vscode.sublime-keybindings"
 	]
 }
