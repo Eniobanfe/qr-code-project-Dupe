@@ -1,0 +1,15 @@
+html * {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Outfit', sans-serif;
+}
+
+.wrapper {
+	width: 1440px;
+	height: 1200px;
+	background-color: hsl(220, 15%, 55%);
+}
