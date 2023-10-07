@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"formulahendry.auto-close-tag",
+		"dzhavat.bracket-pair-toggler",
+		"codespaces-contrib.codeswing",
+		"vsls-contrib.codetour",
+		"streetsidesoftware.code-spell-checker"
+	]
+}
