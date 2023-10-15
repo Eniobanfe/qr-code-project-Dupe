@@ -32,7 +32,7 @@ img{
 
 .card {
 	width: 300px;
-	height: 500px;
+	height: 700px;
 	padding: 20px;
 	margin:  300px;
 	background-color: white;
@@ -56,8 +56,8 @@ img{
 			opacity: 50%;
 		}
 		
-.attribution{
-	margin-top: 120px;
+.content .attribution{
+	margin-top: 200px;
 	text-size-adjust: 20px;
 }
 	

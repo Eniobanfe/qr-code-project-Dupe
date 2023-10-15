@@ -1,10 +1,19 @@
 :root {
+<<<<<<< HEAD
 	--white: hsl(0, 0%, 100%)
 	--lightGray: hsl(212, 45%, 89%)
     --grayishBlue: hsl(220, 15%, 55%)
 	--darkBlue: hsl(218, 44%, 22%)
 
 }
+=======
+	--white: hsl(0, 0%, 100%);
+	--lightGray: hsl(212, 45%, 89%);
+	--grayishBlue: hsl(220, 15%, 55%);
+	--darkBlue: hsl(218, 44%, 22%);
+}
+
+>>>>>>> ee3b56db5d105a2cbb8ea98cac4da915b6e8e471
 html * {
 	margin: 0;
 	padding: 0;
@@ -14,6 +23,7 @@ html * {
 
 body {
 	font-family: 'Outfit', sans-serif;
+<<<<<<< HEAD
 }
 
 .wrapper {
@@ -21,6 +31,9 @@ body {
 	height: 1200px;
 	padding: 10px;
 	background-color: /*var(--grayishBlue: hsl(220, 15%, 55%))*/ hsl(240, 39%, 90%);
+=======
+	background-color: var(--lightGray);
+>>>>>>> ee3b56db5d105a2cbb8ea98cac4da915b6e8e471
 }
 
 img{
