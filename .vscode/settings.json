@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 	"liveServer.settings.port": 5503,
+=======
+	"liveServer.settings.port": 5502,
+>>>>>>> 6df0af46678337a59d077298f5fa69421238ede9
 	"editor.fontSize": 20,
 	"cSpell.words": ["Babajide"]
 }
